@@ -15,7 +15,7 @@ Here are some of my key projects:
 
 - 🧩 [Ai_sudoku_solver](https://github.com/momoein/Ai_sudoku_solver) – Solves Sudoku puzzles using image processing and AI.
 - 💬 [snapp-chat](https://github.com/momoein/snapp-chat) – A simple cli chat app with real-time messaging.
-- ✈️ [qolibaba](https://github.com/momoein/qolibaba) – A backend marketplace microservice project written in Go.
+- ✈️ [qolibaba](https://github.com/qolibaba-group6/qolibaba) – A backend marketplace microservice project written in Go.
 
 > 🔗 Explore more in the [Repositories](https://github.com/momoein?tab=repositories) tab.
 
