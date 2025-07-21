@@ -9,20 +9,10 @@ I'm a passionate developer who enjoys building creative, efficient, and scalable
 - **Cloud & DevOps:** GitHub Actions, CI/CD, Bash scripting
 - **AI Tools:** PyTorch, OpenCV, Hugging Face, NumPy, scikit-learn, Pandas
 
-## 🚀 Notable Projects
-
-Here are some of my key projects:
-
-- 🧩 [Ai_sudoku_solver](https://github.com/momoein/Ai_sudoku_solver) – Solves Sudoku puzzles using image processing and AI.
-- 💬 [snapp-chat](https://github.com/momoein/snapp-chat) – A simple cli chat app with real-time messaging.
-- ✈️ [qolibaba](https://github.com/qolibaba-group6/qolibaba) – A backend marketplace microservice project written in Go.
-
-> 🔗 Explore more in the [Repositories](https://github.com/momoein?tab=repositories) tab.
-
 ## 📈 GitHub Stats
 
-![Momoein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momoein&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momoein&layout=compact&theme=tokyonight)
+![Momoein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momoein&show_icons=true&theme=tokyonight&rank_icon=percentile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momoein&layout=compact&theme=tokyonight&hide_progress=true)
 
 ## 📬 Let's Connect
 
